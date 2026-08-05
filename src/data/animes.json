@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "Nome": "Jojo's Bizarre Adventure",
+        "Dublado": true,
+        "Adaptação do mangá": true,
+        "Autor original": "Hirohiko Araki",
+        "Quantidade de temporadas": 6
+    },
+    {
+        "id":2,
+        "Nome": "Boku no Hero",
+        "Dublado": true,
+        "Adaptação do mangá": true,
+        "Autor original": "Kōhei Horikoshi",
+        "Quantidade de temporadas": 8
+    },
+    {
+        "id":3,
+        "Nome": "The promissed neverland",
+        "Dublado": false,
+        "Adaptação do mangá": true,
+        "Autor original": "Kaiu Shirai",
+        "Quantidade de temporadas": 2
+    },
+    {
+        "id":3,
+        "Nome": "Naruto shippuden",
+        "Dublado": true,
+        "Adaptação do mangá": true,
+        "Autor original": "Masashi Kishimoto",
+        "Quantidade de temporadas": 21
+    }
+]

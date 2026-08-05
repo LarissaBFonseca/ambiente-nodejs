@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "Nome": "Shih Tzu",
+        "Grande porte": false,
+        "Filhote": true,
+        "País originário": "Tibete",
+        "Cor": "Cinza"
+    },
+    {
+        "id":2,
+        "Nome": "Pastor Alemão",
+        "Grande porte": true,
+        "Filhote": false,
+        "País originário": "Alemanha",
+        "Cor": "Marrom"
+    },
+    {
+        "id":3,
+        "Nome": "Lulu da Pomerânia",
+        "Grande porte": false,
+        "Filhote": false,
+        "País originário": "Pomerânia",
+        "Cor": "Branco"
+    },
+    {
+        "id":4,
+        "Nome": "Golden Retriever",
+        "Grande porte": true,
+        "Filhote": true,
+        "País originário": "Escócia",
+        "Cor": "Caramelo"
+    }
+]

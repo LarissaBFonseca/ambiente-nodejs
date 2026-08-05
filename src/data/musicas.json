@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "Nome": "Antes e depois da tempestade",
+        "Clipe": false,
+        "Muncialmente conhecida": false,
+        "Cantor": "Kamaitachi",
+        "Banda": false
+    },
+    {
+        "id":2,
+        "Nome": "Abracadabra",
+        "Clipe": true,
+        "Muncialmente conhecida": true,
+        "Cantor": "Lady gaga",
+        "Banda": false
+    },
+    {
+        "id":3,
+        "Nome": "Linhagem profana",
+        "Clipe": true,
+        "Muncialmente conhecida": false,
+        "Cantor": "Novatroop",
+        "Banda": false
+    },
+    {
+        "id":4,
+        "Nome": "Campeã de Sinnoh",
+        "Clipe": true,
+        "Muncialmente conhecida": false,
+        "Cantor": "Mistery",
+        "Banda": false
+    }
+]

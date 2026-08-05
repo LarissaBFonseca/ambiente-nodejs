@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "Nome": "Tiramisù",
+        "Doce": true,
+        "Colorida": false,
+        "País de origem": "Itália",
+        "Sem lactose": false
+    },
+    {
+        "id":2,
+        "Nome": "Pudim",
+        "Doce": true,
+        "Colorida": false,
+        "País de origem": "Portugal",
+        "Sem lactose": false
+    },
+    {
+        "id":3,
+        "Nome": "Crème brûlée",
+        "Doce": true,
+        "Colorida": false,
+        "País de origem": "França, Inglaterra",
+        "Sem lactose": false
+    },
+    {
+        "id":4,
+        "Nome": "Cheesecake",
+        "Doce": true,
+        "Colorida": false,
+        "País de origem": "Grécia",
+        "Sem lactose": false
+    }
+]
